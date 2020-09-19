@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+# sqlalchemy-challenge Uploaded juypityer notebook, supporting files and app.py file.  The last two questions are partially answered as I couldnt figure out or truly understand the commands/syntax needed.
